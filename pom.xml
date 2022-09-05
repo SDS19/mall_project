@@ -17,6 +17,8 @@
         <module>order</module>
         <module>product</module>
         <module>ware</module>
+        <module>renren-security</module>
+        <module>mall-common</module>
     </modules>
 
 </project>
